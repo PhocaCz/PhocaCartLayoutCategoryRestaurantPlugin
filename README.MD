@@ -2,7 +2,7 @@
 
 
 
-![Phoca Cart Layout Category Restaurant Plugin](https://github.com/PhocaCz/PhocaCartLayoutCategoryRestaurantPlugin/blob/master/category_restaurant.png?raw=true)
+![Phoca Cart Layout Category Restaurant Plugin](https://github.com/PhocaCz/PhocaCartLayoutCategoryRestaurantPlugin/blob/main/category_restaurant.png?raw=true)
 
 # Phoca Cart Layout Category Restaurant Plugin
 

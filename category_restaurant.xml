@@ -21,6 +21,7 @@
 		<folder>tmpl</folder>
 		<filename plugin="category_restaurant">category_restaurant.php</filename>
 		<filename plugin="category_restaurant">index.html</filename>
+		<filename plugin="category_restaurant">manifest.xml</filename>
 	</files>
 
 	<languages>
@@ -46,6 +47,6 @@
 </config>
 
 	<updateservers>
-		<server type="extension" name="PLG_PCL_CATEGORY_RESTAURANT" priority="1"><![CDATA[https://raw.githubusercontent.com/PhocaCz/PhocaCartLayoutCategoryRestaurantPlugin/master/manifest.xml]]></server>
+		<server type="extension" name="PLG_PCL_CATEGORY_RESTAURANT" priority="1"><![CDATA[https://raw.githubusercontent.com/PhocaCz/PhocaCartLayoutCategoryRestaurantPlugin/main/manifest.xml]]></server>
 	</updateservers>
 </extension>
