@@ -1,0 +1,27 @@
+#phCategoryRestaurant .ph-item-desc p {
+   margin: 0;
+}
+
+#phCategoryRestaurant .ph-item-desc {
+   font-style: italic;
+}
+
+#phCategoryRestaurant .ph-item-title {
+   font-weight: bold;
+}
+
+#phCategoryRestaurant .ph-item-wvu,
+#phCategoryRestaurant .ph-item-price {
+   white-space: nowrap;
+   text-align:right;
+}
+
+#phCategoryRestaurant .ph-item-wvu,
+#phCategoryRestaurant .ph-item-price,
+#phCategoryRestaurant .ph-item-action-box,
+#phCategoryRestaurant .ph-category-action-buttons {
+   padding: 0;
+   margin: 0;
+}
+
+ 
