@@ -52,9 +52,13 @@ Phoca Cart Layout - Category Restaurant Plugin - plugin layout method for Phoca 
 
 
 
+
+
+
+
 ## Version
 
-3.5.5
+3.5.7
 
 
 
