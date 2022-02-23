@@ -52,13 +52,13 @@ Phoca Cart Layout - Category Restaurant Plugin - plugin layout method for Phoca 
 
 
 
+## Version (Joomla! 3.x)
 
+3.5.5
 
+## Version (Joomla! 4.x)
 
-
-## Version
-
-3.5.7
+4.0.0
 
 
 
